@@ -78,6 +78,7 @@ for page in df['link']:
 
 df["content"] = content
 
+st.dataframe(df)
 
 #Analysing the SERPs
 
