@@ -98,4 +98,4 @@ wordcloud = WordCloud(background_color="white", max_words=5000, contour_width=3,
 # Generate a word cloud
 wordcloud.generate(text)
 # Visualize the word cloud
-wordcloud.to_image()
+st.image(wordcloud.to_image())
