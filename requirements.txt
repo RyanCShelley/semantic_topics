@@ -1,2 +1,3 @@
 advertools
 trafilatura
+wordcloud
